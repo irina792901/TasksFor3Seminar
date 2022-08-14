@@ -1,0 +1,15 @@
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\TasdsForSeminar\Task23\bin\Debug\net6.0\Task23.exe
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\TasdsForSeminar\Task23\bin\Debug\net6.0\Task23.deps.json
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\TasdsForSeminar\Task23\bin\Debug\net6.0\Task23.runtimeconfig.json
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\TasdsForSeminar\Task23\bin\Debug\net6.0\Task23.dll
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\TasdsForSeminar\Task23\bin\Debug\net6.0\Task23.pdb
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\TasdsForSeminar\Task23\obj\Debug\net6.0\Task23.csproj.AssemblyReference.cache
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\TasdsForSeminar\Task23\obj\Debug\net6.0\Task23.GeneratedMSBuildEditorConfig.editorconfig
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\TasdsForSeminar\Task23\obj\Debug\net6.0\Task23.AssemblyInfoInputs.cache
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\TasdsForSeminar\Task23\obj\Debug\net6.0\Task23.AssemblyInfo.cs
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\TasdsForSeminar\Task23\obj\Debug\net6.0\Task23.csproj.CoreCompileInputs.cache
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\TasdsForSeminar\Task23\obj\Debug\net6.0\Task23.dll
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\TasdsForSeminar\Task23\obj\Debug\net6.0\refint\Task23.dll
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\TasdsForSeminar\Task23\obj\Debug\net6.0\Task23.pdb
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\TasdsForSeminar\Task23\obj\Debug\net6.0\Task23.genruntimeconfig.cache
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\TasdsForSeminar\Task23\obj\Debug\net6.0\ref\Task23.dll

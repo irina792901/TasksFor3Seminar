@@ -1,0 +1,15 @@
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\TasdsForSeminar\Task21\bin\Debug\net6.0\Task21.exe
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\TasdsForSeminar\Task21\bin\Debug\net6.0\Task21.deps.json
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\TasdsForSeminar\Task21\bin\Debug\net6.0\Task21.runtimeconfig.json
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\TasdsForSeminar\Task21\bin\Debug\net6.0\Task21.dll
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\TasdsForSeminar\Task21\bin\Debug\net6.0\Task21.pdb
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\TasdsForSeminar\Task21\obj\Debug\net6.0\Task21.csproj.AssemblyReference.cache
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\TasdsForSeminar\Task21\obj\Debug\net6.0\Task21.GeneratedMSBuildEditorConfig.editorconfig
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\TasdsForSeminar\Task21\obj\Debug\net6.0\Task21.AssemblyInfoInputs.cache
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\TasdsForSeminar\Task21\obj\Debug\net6.0\Task21.AssemblyInfo.cs
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\TasdsForSeminar\Task21\obj\Debug\net6.0\Task21.csproj.CoreCompileInputs.cache
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\TasdsForSeminar\Task21\obj\Debug\net6.0\Task21.dll
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\TasdsForSeminar\Task21\obj\Debug\net6.0\refint\Task21.dll
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\TasdsForSeminar\Task21\obj\Debug\net6.0\Task21.pdb
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\TasdsForSeminar\Task21\obj\Debug\net6.0\Task21.genruntimeconfig.cache
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\TasdsForSeminar\Task21\obj\Debug\net6.0\ref\Task21.dll
